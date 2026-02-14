@@ -25,6 +25,7 @@ The platform handles everything from product display to secure authentication, c
 This project was built to demonstrate full-stack development skills including backend architecture, authentication systems, database design, and production-ready API security.
 
 ✨ Core Features
+
 👤 User System
 
 Secure registration & login
